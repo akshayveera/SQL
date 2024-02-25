@@ -10,7 +10,7 @@ CREATE TABLE dept(
 INSERT INTO dept VALUES
 (101, "CSE"),
 (102, "EEE");
-
+ 
 UPDATE dept
 SET id = 201
 WHERE name = "CSE";
